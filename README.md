@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Java Script<br>💬 Ask me about Web Development<br>📫 How to reach me ht4742786@gmail.com
+💬 Ask me about Web Development<br>📫 How to reach me ht4742786@gmail.com
 
 
 ## 🌐 Socials:
